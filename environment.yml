@@ -9,3 +9,5 @@ dependencies:
   - python=3.12
   - pandas>=3.0.1
   - openpyxl
+  - r-base=4.5
+  - r-optparse=1.8.2
